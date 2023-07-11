@@ -7,4 +7,4 @@ let rub = aze / 0.01861 ;
 document.getElementById('ramo').innerHTML = aze + ' ₼ = ' + euro.toFixed() + ' € ' ;
 document.getElementById('ss').innerHTML = aze + ' ₼ = ' + usd.toFixed() + ' $  ' ;
 document.getElementById('aa').innerHTML =  aze + ' ₼ = ' + tl.toFixed() +  ' ₺' ;
-document.getElementById('bb').innerHTML = aze + ' ₼ = ' + rub.toFixed() + ' ₽ ' ;
+document.getElementById('z').innerHTML = aze + ' ₼ = ' + rub.toFixed() + ' ₽ ' ;
